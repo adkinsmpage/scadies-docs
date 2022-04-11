@@ -1,6 +1,9 @@
 ---
 title: Get Started
 ---
+
+# Get Started
+
 Using Scadies is very easy.It just needs you to do something.
 
 ## Have A Vercel Account
