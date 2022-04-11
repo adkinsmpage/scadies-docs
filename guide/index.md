@@ -15,9 +15,9 @@ Then import the Scadies repo.
 
 Click the following buttons:
 
-[![](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/uazira/scadies-frontend)
+[![](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/uazira/scadies-frontend)Frontend
 
-[![](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/uazira/scadies-backend)
+[![](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/uazira/scadies-backend)Backend
 
 The first project needs a Environment Variables.It is `mongodbUri`.
 
