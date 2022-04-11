@@ -26,7 +26,7 @@ The first project needs a Environment Variables. It is `mongodbUri`.
 
 Register a [MongoDB](https://www.mongodb.com/cloud/atlas/register) account.
 
-Create a free(it looks like "shared") MongoDB databas.For region,you had better to choose `AWS / N. Virginia (us-east-1).
+Create a free(it looks like "shared") MongoDB databas.For region,you had better to choose `AWS / N. Virginia (us-east-1)`.
 
 Click CONNECT at Clusters page，set the rule to allow all IP address.(Type 0.0.0.0)（[why？](https://vercel.com/support/articles/how-to-allowlist-deployment-ip-address)）
 
