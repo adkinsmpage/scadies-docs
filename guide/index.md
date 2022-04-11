@@ -19,7 +19,7 @@ Click the following buttons:
 
 [![](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/uazira/scadies-backend)Backend
 
-The first project needs a Environment Variables.It is `mongodbUri`.
+The first project needs a Environment Variables. It is `mongodbUri`.
 
 Register a [MongoDB](https://www.mongodb.com/cloud/atlas/register) account.
 
@@ -31,9 +31,9 @@ Add a user in your database，and remember the connect string.Replace the `<pass
 
 The string after replacing is the `mongodbUri`
 
-Then,the frontend of your blog is ready todo anything.It is time to build your backend.
+Then,the frontend of your blog is ready todo anything. It is time to build your backend.
 
-The second button uses to build backend.It need three Environment Variables: `adminUserName` `password` and `mongodbUri`
+The second button uses to build backend. It need three Environment Variables: `adminUserName` `password` and `mongodbUri`
 
 The `mongodbUri` is also the connect string.You can copy and paste.
 
