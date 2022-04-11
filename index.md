@@ -18,7 +18,3 @@ actionLink: /guide/index.html
     <p>后台前台分离，有助于加大破译后台难度，助力站长安全发博。</p>
   </div>
 </div>
-
-::: slot footer
-Copyright © 2022-present [Adkict](https://github.com/adkict)
-:::
