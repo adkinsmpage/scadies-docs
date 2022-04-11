@@ -7,6 +7,6 @@
     "serve": "vitepress serve"
   },
   "devDependencies": {
-    "vitepress": "workspace:*"
+    "vitepress": "0.22.3"
   }
 }
