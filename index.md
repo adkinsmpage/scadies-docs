@@ -2,6 +2,8 @@
 home: true
 actionText: Get Started →
 actionLink: /guide/index.html
+heroText: Scadies
+tagline: 快速、简便、安全的新一代动态博客系统
 ---
 
 <div class="features">
