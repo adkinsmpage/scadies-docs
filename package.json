@@ -2,11 +2,11 @@
   "private": true,
   "name": "scadies-docs",
   "scripts": {
-    "dev": "vitepress dev",
-    "build": "vitepress build",
-    "serve": "vitepress serve"
+    "dev": "vuepress dev",
+    "build": "vuepress build",
+    "serve": "vuepress serve"
   },
   "devDependencies": {
-    "vitepress": "0.22.3"
+    "vueress": "1.9.7"
   }
 }
