@@ -7,6 +7,6 @@
     "serve": "vuepress serve"
   },
   "devDependencies": {
-    "vueress": "1.9.7"
+    "vuepress": "1.9.7"
   }
 }
