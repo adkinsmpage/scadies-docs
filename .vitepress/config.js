@@ -1,4 +1,11 @@
 module.exports = {
   title: 'Scadies',
-  description: '快速、简便、安全的新一代动态博客系统'
+  description: '快速、简便、安全的新一代动态博客系统',
+   themeConfig: {
+    sidebar: [
+      '/',
+      '/guide',
+      '/guide/config'
+    ]
+  }
 }
