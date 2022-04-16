@@ -8,7 +8,7 @@ module.exports = {
             { text: "Guide", link: "/guide/" },
         ], //  左侧导航栏配置
         sidebar: {
-            scadies: [
+            "scadies": [
                 {
                     text: "Scadies",
                     children: [
