@@ -138,5 +138,5 @@ Then click `Redeploy`.
 
 ---
 
-OK. Your Blog is good now. Enjoy!
+OK. Your Blog is good now(your blog's link is frontend's link). Enjoy!
 
